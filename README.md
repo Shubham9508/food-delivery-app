@@ -119,3 +119,8 @@ Execute `npm run seed` first to set up the following accounts:
 ### Admin Account
 - **Email:** `admin@fooddelivery.com`
 - **Password:** `admin123`
+
+---
+
+## Demo Guide
+For a step-by-step teacher demo script, see `docs/DEMO.md`.
